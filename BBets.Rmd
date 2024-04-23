@@ -108,7 +108,7 @@ myBrLw3[i] = BrLw(numClass = 28.9 )}
 hist(myBrLw3)
 ```
 
-For BrownLow's original bet, a class size of 28.9 seems to be the right class size for the odds to be fair.
+Based on the data for BrownLow's original bet, a class size of 28.9 seems to be the right class size for the odds to be fair.
 
 
 # Discussion and Conclusion
