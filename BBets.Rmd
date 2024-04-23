@@ -115,3 +115,5 @@ Based on the data for BrownLow's original bet, a class size of 28.9 seems to be 
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+BrownLow was making $283 with a class size of 35. For his bet size to be fair he would need a class size of 28.9.
+
