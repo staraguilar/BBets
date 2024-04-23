@@ -100,11 +100,15 @@ A 95% confidence interval is `r (sorted2[25])` up to `r (sorted2[975])`
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
-r
 
+```{r}
+myBrLw3 <- numeric(100)
+for(i in 1:100){
+myBrLw3[i] = BrLw(numClass = 28.9 )}
+hist(myBrLw3)
+```
 
-
-
+For BrownLow's original bet, a class size of 28.9 seems to be the right class size for the odds to be fair.
 
 
 # Discussion and Conclusion
